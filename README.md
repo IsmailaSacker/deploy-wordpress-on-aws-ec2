@@ -126,4 +126,4 @@
 
 ### This is the architecture of the project. All the applications such as apache webserver, mySQL server and wordpress are hosted on the ec-2 instance.
 
-![Alt text](/wordpress%20on%20aws/image.png)
+![Alt text](wordpress%20on%20aws/image.png)
