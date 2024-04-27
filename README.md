@@ -1,4 +1,6 @@
-# Description" This is a wordpress deployment on AWS using AWSec-2 instance. You can install Wordpress in a click by using AWS \*\*Lightsail, but this is a traditional way of installing wordpress on aws ec2. This will create a virtual computer on EC2, install and configure a web server, database management system and finally install wordpress and connect to the web site through the public ip of the ec-2 instance.
+# Wordpress deployment on AWS using AWSec-2 instance.
+
+You can install Wordpress in a click by using AWS Lightsail, but this is a traditional way of installing wordpress on aws ec2. This will create a virtual computer on EC2, install and configure a web server, database management system and finally install wordpress and connect to the web site through the public ip of the ec-2 instance.
 
 **Before following these steps. Make sure your ec-2 instance is ready and you can ssh into that instance.**
 
